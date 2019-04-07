@@ -1,1 +1,1 @@
-{% include /test_include %}
+{% include /test_include.md %}
